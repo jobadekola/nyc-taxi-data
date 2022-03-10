@@ -26,3 +26,7 @@ The first file __(nyc-taxi-exploratory-data-analysis.ipynb)__ contains a series 
 *Passenger Count*
 
 ![Screenshot 2022-03-10 221514](https://user-images.githubusercontent.com/32384910/157651040-6c237b99-ff64-4775-83da-909ade31b2bb.png)
+
+*Busiest Hours*
+
+![Screenshot 2022-03-10 221824](https://user-images.githubusercontent.com/32384910/157651444-84b8159e-9d26-4a28-a77c-b3fcbaadfdee.png)
