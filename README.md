@@ -10,6 +10,7 @@ This project contains an exploratory data analysis of New York city taxi data. I
 
 The first file (nyc-taxi-exploratory-data-analysis.ipynb) contains a series of exploratory data analysis about the new york city taxi data. Here, I was able to provide answers to some of the questions below:
     - What is the distribution of number of passengers per trip?
+    - 
     
 
   
