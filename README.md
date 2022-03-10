@@ -30,3 +30,9 @@ The first file __(nyc-taxi-exploratory-data-analysis.ipynb)__ contains a series 
 *Busiest Hours*
 
 ![Screenshot 2022-03-10 221824](https://user-images.githubusercontent.com/32384910/157651444-84b8159e-9d26-4a28-a77c-b3fcbaadfdee.png)
+
+*Map of Busiest Locations*
+
+![Screenshot 2022-03-10 221949](https://user-images.githubusercontent.com/32384910/157651682-6399ab07-ee3c-4bef-9000-ffa3599babfc.png)
+
+
