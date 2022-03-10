@@ -20,5 +20,9 @@ The first file (nyc-taxi-exploratory-data-analysis.ipynb) contains a series of e
 8. Which trip has the highest standard deviation of travel time?
 9. Which trip has most consistent fares?  
 
-**Some important plots can be seen below**
+**Some important plots can be seen below:**
   
+
+*Passenger Count*
+
+![Screenshot 2022-03-10 221514](https://user-images.githubusercontent.com/32384910/157651040-6c237b99-ff64-4775-83da-909ade31b2bb.png)
