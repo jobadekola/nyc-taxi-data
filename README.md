@@ -38,3 +38,25 @@ The first file __(nyc-taxi-exploratory-data-analysis.ipynb)__ contains a series 
 ![Screenshot 2022-03-10 221949](https://user-images.githubusercontent.com/32384910/157651682-6399ab07-ee3c-4bef-9000-ffa3599babfc.png)
 
 
+**PREDICTIVE MODEL**
+The second file __(nyc-taxi-predictive-model.ipynb)__ contains a predictive model for fare amount and tip amount. This consist of all the step by step stages before the models were built and how the best performing model was eventually selected. Some of the key steps are:
+
+1. Preprocessing: Here, some of the columns were formatted correctly, merging the two different dataframes
+2. Feature Engineering: Here, more preprocessing is done to prepare the dataset for the model stage. First, we check for null values and then do some feature engineering on the date/time to put it in a proper format for training. Also, a correlation plot is plotted to check what feature are correlated with the target variable before model building. 
+3. Model Building: This was done using Scitlearn Pipeline in order to create pipes of regression models and finally select the best performing one
+4. Model Evaluation: Model was evaluated for accuracy here
+
+*Model pipeline result*
+
+![Screenshot 2022-03-10 223127](https://user-images.githubusercontent.com/32384910/157653380-62698a87-86e4-4743-80fa-768c4b70794c.png)
+
+*Model Evaluation Plot*
+
+![Screenshot 2022-03-10 223220](https://user-images.githubusercontent.com/32384910/157653647-c638a982-9510-4301-a45c-7a4facdff821.png)
+
+
+
+
+
+
+
