@@ -10,7 +10,7 @@ This project contains an exploratory data analysis of New York city taxi data. I
 
 The first file (nyc-taxi-exploratory-data-analysis.ipynb) contains a series of exploratory data analysis about the new york city taxi data. Here, I was able to provide answers to some of the questions below:
 
-*1. What is the distribution of number of passengers per trip?
+1. What is the distribution of number of passengers per trip?
 2. What is the distribution of payment_type?
 3. What is the distribution of fare amount?
 4. What is the distribution of tip amount?
@@ -18,6 +18,7 @@ The first file (nyc-taxi-exploratory-data-analysis.ipynb) contains a series of e
 6. What are top 5 busiest hours of the day?
 7. What are the top 10 busiest locations of the city?
 8. Which trip has the highest standard deviation of travel time?
-9. Which trip has most consistent fares?*   
+9. Which trip has most consistent fares?  
 
+**Some important plots can be seen below**
   
