@@ -4,7 +4,7 @@ This project contains an exploratory data analysis of New York city taxi data. I
 ***Steps to Follow in order to access the .ipynb file:***
 
 1. Locate the src folder
-2. In the src folder, you'll find 2 .ipynb files. Namely
+2. In the src folder, you'll find 2 .ipynb files. Namely:
     - nyc-taxi-exploratory-data-analysis.ipynb
     - nyc-taxi-predictive-model.ipynb
 
