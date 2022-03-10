@@ -39,6 +39,7 @@ The first file __(nyc-taxi-exploratory-data-analysis.ipynb)__ contains a series 
 
 
 **PREDICTIVE MODEL**
+
 The second file __(nyc-taxi-predictive-model.ipynb)__ contains a predictive model for fare amount and tip amount. This consist of all the step by step stages before the models were built and how the best performing model was eventually selected. Some of the key steps are:
 
 1. Preprocessing: Here, some of the columns were formatted correctly, merging the two different dataframes
